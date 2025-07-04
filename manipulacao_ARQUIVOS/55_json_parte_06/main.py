@@ -18,4 +18,10 @@ try:
         print("-"*40)
 except Exception as e:
 	
- print(f"nao foi possivel ler arquivo JSON. {e}.")
+ print(f"nao foi possivel ler arquivo JSON. {e}.")  
+
+
+
+
+
+ 
